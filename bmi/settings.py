@@ -1,5 +1,5 @@
 FONT = 'Calibri'
-BIG_SIZE = 50
+BIG_SIZE = 45
 SMALL_SIZE = 25
 
 WIDTH = 600
